@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi there! I'm Anton 👋
+### **Software Engineer based in the UK**
 
-<!--
-**Antonluko/Antonluko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a aspiring Software Engineer highly interested in tech world and its growth. 
+<br>
+I mainly work with frontend using React but do find myself occasionally exploring other development tools.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧰 Tech Stack & Tools
+
+* **Frontend:** React | TypeScript | Tailwind CSS | SCSS
+* **Backend:** Node.js | Express.js
+* **Database:** MySQL *(managed via phpMyAdmin)*
+* **Environment:** XAMPP Control Panel
